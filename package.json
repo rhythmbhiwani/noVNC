@@ -25,9 +25,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/novnc/noVNC.git"
+    "url": "git+https://github.com/rhythmbhiwani/noVNC.git"
   },
-  "author": "Joel Martin <github@martintribe.org> (https://github.com/kanaka)",
+  "author": "Joel Martin <github@martintribe.org> (https://github.com/rhythmbhiani)",
   "contributors": [
     "Solly Ross <sross@redhat.com> (https://github.com/directxman12)",
     "Peter Åstrand <astrand@cendio.se> (https://github.com/astrand)",
@@ -36,9 +36,9 @@
   ],
   "license": "MPL-2.0",
   "bugs": {
-    "url": "https://github.com/novnc/noVNC/issues"
+    "url": "https://github.com/rhythmbhiwani/noVNC/issues"
   },
-  "homepage": "https://github.com/novnc/noVNC",
+  "homepage": "https://github.com/rhythmbhiwani/noVNC",
   "devDependencies": {
     "@babel/core": "*",
     "@babel/plugin-syntax-dynamic-import": "*",
